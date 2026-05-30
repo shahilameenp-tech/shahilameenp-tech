@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shahil%20Ameen&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Analyst%20%7C%20Business%20Intelligence%20Engineer%20%7C%20SQL%20%7C%20Python&descAlignY=53&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,24&height=180&section=header&text=Shahil%20Ameen&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Business%20Analyst%20%7C%20Requirements%20%7C%20Process%20Improvement%20%7C%20Stakeholder%20Management&descAlignY=53&descAlign=50" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Turning+raw+data+into+business+insights+%F0%9F%93%8A;Building+dashboards+%7C+Writing+SQL+%7C+Telling+stories+with+data)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDAE&center=true&vCenter=true&multiline=true&width=750&height=80&lines=Bridging+business+needs+%26+technical+solutions+%F0%9F%A4%9D;Requirements+%7C+Process+Mapping+%7C+Stakeholder+Alignment)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,13 +10,14 @@
 
 ## 👋 About Me
 
-Hi there! I'm **Shahil Ameen** — a passionate **Data Analyst** who loves transforming complex datasets into clear, actionable insights. I specialise in building data pipelines, crafting interactive dashboards, and writing optimised SQL queries that drive smarter business decisions.
+Hi, I'm **Shahil Ameen** — a results-driven **Business Analyst** who bridges the gap between business stakeholders and technical teams. I translate complex business challenges into clear requirements, streamlined processes, and data-backed recommendations that deliver measurable value.
 
-- 🔍 Currently working on **E-Commerce Business Intelligence** and **Hospital Data Analytics**
-- 📊 Passionate about **data storytelling**, visual analytics, and BI tooling
-- 🌱 Continuously learning advanced **machine learning** and **cloud data engineering**
-- 💡 I believe data should empower decisions — not confuse them
-- 📍 Based and actively seeking opportunities in the **tech & data industry**
+- 🤝 Skilled in **eliciting and documenting requirements** from cross-functional stakeholders
+- 📋 Experienced in **process mapping**, gap analysis, and workflow optimisation
+- 📊 Leverage **SQL, Excel & Power BI** to build dashboards and support decision-making
+- 🔄 Familiar with both **Agile/Scrum and Waterfall** delivery methodologies
+- 💡 Firm believer that the best solutions start with asking the right questions
+- 📍 Actively seeking **Business Analyst** opportunities
 
 ---
 
@@ -26,52 +27,55 @@ Hi there! I'm **Shahil Ameen** — a passionate **Data Analyst** who loves trans
 <tr>
 <td width="50%">
 
-### 🏥 [Hospital Data Analysis Dashboard](https://github.com/shahilameenp-tech/Hospital-Data-Analysis-Dashboard-)
-**Tech:** Python · Pandas · Power BI / Tableau · SQL
+### 🏥 [Hospital Operations Analysis](https://github.com/shahilameenp-tech/Hospital-Data-Analysis-Dashboard-)
+**Tech:** SQL · Power BI · Excel · Process Mapping
 
-An end-to-end analytics dashboard built to analyse hospital operations data — tracking patient admissions, treatment outcomes, resource utilisation, and operational KPIs. Designed to help healthcare administrators make faster, evidence-based decisions.
+A business analysis project examining hospital operational performance — identifying bottlenecks in patient flow, resource allocation inefficiencies, and KPI gaps impacting service delivery.
 
-**Key Highlights:**
-- 📌 Cleaned & transformed raw hospital data using Pandas
-- 📌 Built interactive visualisations for patient flow & bed occupancy
-- 📌 Identified cost-saving opportunities through trend analysis
+**BA Deliverables:**
+- 📌 Stakeholder requirements gathering & process documentation
+- 📌 As-Is / To-Be process mapping for patient admission workflows
+- 📌 Interactive KPI dashboard for hospital management reporting
+- 📌 Recommendations report with prioritised improvement actions
 
 </td>
 <td width="50%">
 
-### 🛒 [E-Commerce Business Intelligence Project](https://github.com/shahilameenp-tech/E-Commerce_Business_Intelligence_Project)
-**Tech:** Python · SQL · Power BI · Excel
+### 🛒 [E-Commerce BI & Process Improvement](https://github.com/shahilameenp-tech/E-Commerce_Business_Intelligence_Project)
+**Tech:** SQL · Power BI · Excel · Data Modelling
 
-A full-scale BI project analysing e-commerce transactional data to uncover revenue trends, customer behaviour patterns, and product performance insights.
+An end-to-end business intelligence project analysing an e-commerce operation — uncovering revenue leakage, customer churn drivers, and fulfilment inefficiencies through structured analysis.
 
-**Key Highlights:**
-- 📌 Performed cohort analysis & customer segmentation
-- 📌 Built KPI dashboards tracking sales, returns & conversion rates
-- 📌 Delivered actionable insights to optimise marketing spend
+**BA Deliverables:**
+- 📌 Business requirements document (BRD) & use case definitions
+- 📌 Customer journey mapping & funnel drop-off analysis
+- 📌 Executive dashboard with sales, returns & margin KPIs
+- 📌 Data-driven recommendations for process optimisation
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 💼 [SQL Project: Data & Job Market Analysis](https://github.com/shahilameenp-tech/SQL_Project_Data_Job_Analysis)
-**Tech:** SQL · PostgreSQL · Data Visualisation
+### 💼 [Job Market Analysis — BA Perspective](https://github.com/shahilameenp-tech/SQL_Project_Data_Job_Analysis)
+**Tech:** SQL · PostgreSQL · Excel · Visualisation
 
-A deep-dive SQL analysis into the job market for data professionals — exploring salary trends, in-demand skills, top hiring companies, and geographic hotspots.
+A market research and analysis project profiling the job landscape for business and data roles — identifying skill demand trends, salary benchmarks, and high-growth sectors.
 
-**Key Highlights:**
-- 📌 Wrote complex multi-table JOINs, CTEs & window functions
-- 📌 Identified top-paying roles & highest-value skills to learn
-- 📌 Visualised findings with clear charts & summaries
+**BA Deliverables:**
+- 📌 Structured SQL queries to extract & validate market data
+- 📌 Competitive analysis of in-demand BA tools & certifications
+- 📌 Clear visual summaries to communicate findings to stakeholders
 
 </td>
 <td width="50%">
 
 ### 📁 More Coming Soon...
-I'm constantly building. Check back for:
-- 🔮 Predictive analytics models (ML)
-- 🌐 API-driven data pipeline projects
-- ☁️ Cloud BI on AWS / Azure / GCP
+Projects in the pipeline:
+- 🗺️ End-to-end BPMN process mapping case study
+- 📝 Requirements traceability matrix (RTM) template project
+- 📊 Agile backlog & user story workshop simulation
+- 🔍 Root cause analysis (RCA) framework project
 
 ⭐ **Star my repos** to stay updated!
 
@@ -81,36 +85,41 @@ I'm constantly building. Check back for:
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Business Analyst Toolkit
 
 <div align="center">
 
-**Languages & Query**
+**Requirements & Documentation**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
+![JIRA](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Microsoft Word](https://img.shields.io/badge/MS%20Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+
+**Data Analysis & Reporting**
+
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**Data & Analytics**
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**BI & Visualisation**
+**Dashboards & BI**
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
 
-**Dev Tools & Environments**
+**Process & Modelling**
 
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Lucidchart](https://img.shields.io/badge/Lucidchart-F96B13?style=for-the-badge&logo=lucidchart&logoColor=white)
+![draw.io](https://img.shields.io/badge/draw.io-F08705?style=for-the-badge&logo=diagrams.net&logoColor=white)
+![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=FFD02F)
+
+**Collaboration & Delivery**
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
@@ -139,16 +148,17 @@ I'm constantly building. Check back for:
 
 ---
 
-## 🎯 Core Competencies
+## 🎯 Core BA Competencies
 
 ```text
-📊 Data Analysis & Wrangling        ████████████████████░   90%
-🗄️  SQL & Database Design           ████████████████████░   88%
-📈 Dashboard & BI Development       ███████████████████░░   85%
-🐍 Python for Data Science          ██████████████████░░░   80%
-🧹 Data Cleaning & ETL              ████████████████████░   88%
-📉 Statistical Analysis             ████████████████░░░░░   75%
-☁️  Cloud & Big Data (learning)      ████████████░░░░░░░░░   55%
+📋 Requirements Elicitation & BRD Writing   ████████████████████░   90%
+🗺️  Process Mapping (BPMN / As-Is / To-Be)  ███████████████████░░   85%
+📊 Data Analysis & Reporting (SQL/Excel)    ████████████████████░   88%
+🤝 Stakeholder Management & Communication   ███████████████████░░   87%
+📈 Dashboard & KPI Development (Power BI)   ██████████████████░░░   82%
+🔄 Agile / Scrum / Waterfall Methodologies  ████████████████░░░░░   76%
+🔍 Gap Analysis & Root Cause Analysis       ███████████████████░░   85%
+🧪 UAT Planning & Test Case Writing         ███████████████░░░░░░   72%
 ```
 
 ---
@@ -159,12 +169,30 @@ I'm actively seeking roles in:
 
 | Role | Type |
 |------|------|
-| 📊 Data Analyst | Full-time / Contract |
-| 📉 Business Intelligence Analyst | Full-time |
-| 🔬 Junior Data Scientist | Full-time |
-| 📋 Reporting & Insights Analyst | Full-time / Contract |
+| 📋 Business Analyst | Full-time / Contract |
+| 🔄 Systems Analyst | Full-time |
+| 📊 Business Intelligence Analyst | Full-time / Contract |
+| 🔍 Functional Analyst | Full-time |
+| 📈 Reporting & Insights Analyst | Contract / Permanent |
 
-> 💬 *"I bring a strong analytical mindset, clean code habits, and a genuine love for solving problems with data. Let's build something impactful together."*
+> 💬 *"I combine strong analytical thinking with clear communication — turning ambiguous business problems into structured solutions that stakeholders actually understand and teams can actually build."*
+
+---
+
+## 🤝 BA Methodologies & Frameworks
+
+<div align="center">
+
+| 📐 Analysis Techniques | 🔄 Delivery Methods | 📄 Documentation |
+|---|---|---|
+| MoSCoW Prioritisation | Agile / Scrum | Business Requirements Doc (BRD) |
+| SWOT & Gap Analysis | Waterfall | Functional Specification (FSD) |
+| Root Cause Analysis | Kanban | User Stories & Acceptance Criteria |
+| Stakeholder Mapping | SAFe (Scaled Agile) | Process Maps (BPMN) |
+| Cost-Benefit Analysis | Hybrid Delivery | Requirements Traceability Matrix |
+| PESTLE Analysis | Change Management | Use Case Diagrams |
+
+</div>
 
 ---
 
@@ -182,10 +210,10 @@ I'm actively seeking roles in:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,24&height=100&section=footer" width="100%"/>
 
-**⭐ If you find my projects useful, please consider giving them a star! It means a lot. ⭐**
+**⭐ If you find my work useful, please consider giving the repos a star! It means a lot. ⭐**
 
-![Profile Views](https://komarev.com/ghpvc/?username=shahilameenp-tech&color=blueviolet&style=for-the-badge&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=shahilameenp-tech&color=38bdae&style=for-the-badge&label=Profile+Views)
 
 </div>
