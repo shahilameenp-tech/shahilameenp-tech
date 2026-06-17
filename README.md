@@ -6,11 +6,11 @@
 
 </div>
 
------
+---
 
 ## 👋 About Me
 
-Hi, I’m **Shahil Ameen** — a results-driven **Business Analyst** who bridges the gap between business stakeholders and technical teams. I translate complex business challenges into clear requirements, streamlined processes, and data-backed recommendations that deliver measurable value.
+Hi, I'm **Shahil Ameen** — a results-driven **Business Analyst** who bridges the gap between business stakeholders and technical teams. I translate complex business challenges into clear requirements, streamlined processes, and data-backed recommendations that deliver measurable value.
 
 - 🤝 Skilled in **eliciting and documenting requirements** from cross-functional stakeholders
 - 📋 Experienced in **process mapping**, gap analysis, and workflow optimisation
@@ -19,29 +19,13 @@ Hi, I’m **Shahil Ameen** — a results-driven **Business Analyst** who bridges
 - 💡 Firm believer that the best solutions start with asking the right questions
 - 📍 Actively seeking **Business Analyst** opportunities
 
------
+---
 
 ## 🚀 Featured Projects
 
 <table>
 <tr>
-<td width="50%">
-
-### 🏥 [Hospital Operations Analysis](https://github.com/shahilameenp-tech/Hospital-Data-Analysis-Dashboard-)
-
-**Tech:** SQL · Power BI · Excel · Process Mapping
-
-A business analysis project examining hospital operational performance — identifying bottlenecks in patient flow, resource allocation inefficiencies, and KPI gaps impacting service delivery.
-
-**BA Deliverables:**
-
-- 📌 Stakeholder requirements gathering & process documentation
-- 📌 As-Is / To-Be process mapping for patient admission workflows
-- 📌 Interactive KPI dashboard for hospital management reporting
-- 📌 Recommendations report with prioritised improvement actions
-
-</td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🏛️ [Citizen Self Service Portal](https://github.com/shahilameenp-tech/Citizen_Self_Service_Portal)
 
@@ -50,16 +34,13 @@ A business analysis project examining hospital operational performance — ident
 A business analysis case study on a citizen-facing self-service portal — mapping user journeys, defining functional requirements, and identifying process gaps to improve service accessibility.
 
 **BA Deliverables:**
-
 - 📌 Stakeholder mapping & requirements elicitation
 - 📌 As-Is / To-Be journey mapping for citizen-facing workflows
 - 📌 Functional specification & use case definitions
 - 📌 Gap analysis with improvement recommendations
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 💼 [Job Market Analysis — BA Perspective](https://github.com/shahilameenp-tech/SQL_Project_Data_Job_Analysis)
 
@@ -68,13 +49,29 @@ A business analysis case study on a citizen-facing self-service portal — mappi
 A market research and analysis project profiling the job landscape for business and data roles — identifying skill demand trends, salary benchmarks, and high-growth sectors.
 
 **BA Deliverables:**
-
 - 📌 Structured SQL queries to extract & validate market data
 - 📌 Competitive analysis of in-demand BA tools & certifications
 - 📌 Clear visual summaries to communicate findings to stakeholders
 
 </td>
-<td width="50%">
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏥 [Hospital Operations Analysis](https://github.com/shahilameenp-tech/Hospital-Data-Analysis-Dashboard-)
+
+**Tech:** SQL · Power BI · Excel · Process Mapping
+
+A business analysis project examining hospital operational performance — identifying bottlenecks in patient flow, resource allocation inefficiencies, and KPI gaps impacting service delivery.
+
+**BA Deliverables:**
+- 📌 Stakeholder requirements gathering & process documentation
+- 📌 As-Is / To-Be process mapping for patient admission workflows
+- 📌 Interactive KPI dashboard for hospital management reporting
+- 📌 Recommendations report with prioritised improvement actions
+
+</td>
+<td width="50%" valign="top">
 
 ### 📁 More Coming Soon…
 
@@ -91,7 +88,7 @@ Projects in the pipeline:
 </tr>
 </table>
 
------
+---
 
 ## 🛠️ Business Analyst Toolkit
 
@@ -131,23 +128,7 @@ Projects in the pipeline:
 
 </div>
 
------
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=shahilameenp-tech&theme=tokyonight&hide_border=true)
-
-</div>
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shahilameenp-tech&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)
-
-</div>
-
------
+---
 
 ## 🎯 Core BA Competencies
 
@@ -162,53 +143,52 @@ Projects in the pipeline:
 🧪 UAT Planning & Test Case Writing         ███████████████░░░░░░   72%
 ```
 
------
+---
 
-## 💼 What I’m Looking For
+## 💼 What I'm Looking For
 
-I’m actively seeking roles in:
+I'm actively seeking roles in:
 
-|Role                           |Type                |
-|-------------------------------|--------------------|
-|📋 Business Analyst             |Full-time / Contract|
-|🔄 Systems Analyst              |Full-time           |
-|📊 Business Intelligence Analyst|Full-time / Contract|
-|🔍 Functional Analyst           |Full-time           |
-|📈 Reporting & Insights Analyst |Contract / Permanent|
+| Role                            | Type                 |
+|---------------------------------|----------------------|
+| 📋 Business Analyst             | Full-time / Contract |
+| 🔄 Systems Analyst              | Full-time            |
+| 📊 Business Intelligence Analyst| Full-time / Contract |
+| 🔍 Functional Analyst           | Full-time            |
+| 📈 Reporting & Insights Analyst | Contract / Permanent |
 
+> 💬 *"I combine strong analytical thinking with clear communication — turning ambiguous business problems into structured solutions that stakeholders actually understand and teams can actually build."*
 
-> 💬 *“I combine strong analytical thinking with clear communication — turning ambiguous business problems into structured solutions that stakeholders actually understand and teams can actually build.”*
-
------
+---
 
 ## 🤝 BA Methodologies & Frameworks
 
 <div align="center">
 
-|📐 Analysis Techniques|🔄 Delivery Methods |📄 Documentation                   |
-|---------------------|-------------------|----------------------------------|
-|MoSCoW Prioritisation|Agile / Scrum      |Business Requirements Doc (BRD)   |
-|SWOT & Gap Analysis  |Waterfall          |Functional Specification (FSD)    |
-|Root Cause Analysis  |Kanban             |User Stories & Acceptance Criteria|
-|Stakeholder Mapping  |SAFe (Scaled Agile)|Process Maps (BPMN)               |
-|Cost-Benefit Analysis|Hybrid Delivery    |Requirements Traceability Matrix  |
-|PESTLE Analysis      |Change Management  |Use Case Diagrams                 |
+| 📐 Analysis Techniques   | 🔄 Delivery Methods  | 📄 Documentation                    |
+|--------------------------|----------------------|-------------------------------------|
+| MoSCoW Prioritisation    | Agile / Scrum        | Business Requirements Doc (BRD)     |
+| SWOT & Gap Analysis      | Waterfall            | Functional Specification (FSD)      |
+| Root Cause Analysis      | Kanban               | User Stories & Acceptance Criteria  |
+| Stakeholder Mapping      | SAFe (Scaled Agile)  | Process Maps (BPMN)                 |
+| Cost-Benefit Analysis    | Hybrid Delivery      | Requirements Traceability Matrix    |
+| PESTLE Analysis          | Change Management    | Use Case Diagrams                   |
 
 </div>
 
------
+---
 
 ## 📬 Connect With Me
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-shahilameenp--tech-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shahilameenp-tech)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shahilameenp-tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shahil-ameen)
 [![Email](https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahilameenp@gmail.com)
 
 </div>
 
------
+---
 
 <div align="center">
 
