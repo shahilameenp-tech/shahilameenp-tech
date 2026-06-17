@@ -6,11 +6,11 @@
 
 </div>
 
----
+-----
 
 ## 👋 About Me
 
-Hi, I'm **Shahil Ameen** — a results-driven **Business Analyst** who bridges the gap between business stakeholders and technical teams. I translate complex business challenges into clear requirements, streamlined processes, and data-backed recommendations that deliver measurable value.
+Hi, I’m **Shahil Ameen** — a results-driven **Business Analyst** who bridges the gap between business stakeholders and technical teams. I translate complex business challenges into clear requirements, streamlined processes, and data-backed recommendations that deliver measurable value.
 
 - 🤝 Skilled in **eliciting and documenting requirements** from cross-functional stakeholders
 - 📋 Experienced in **process mapping**, gap analysis, and workflow optimisation
@@ -19,7 +19,7 @@ Hi, I'm **Shahil Ameen** — a results-driven **Business Analyst** who bridges t
 - 💡 Firm believer that the best solutions start with asking the right questions
 - 📍 Actively seeking **Business Analyst** opportunities
 
----
+-----
 
 ## 🚀 Featured Projects
 
@@ -28,11 +28,13 @@ Hi, I'm **Shahil Ameen** — a results-driven **Business Analyst** who bridges t
 <td width="50%">
 
 ### 🏥 [Hospital Operations Analysis](https://github.com/shahilameenp-tech/Hospital-Data-Analysis-Dashboard-)
+
 **Tech:** SQL · Power BI · Excel · Process Mapping
 
 A business analysis project examining hospital operational performance — identifying bottlenecks in patient flow, resource allocation inefficiencies, and KPI gaps impacting service delivery.
 
 **BA Deliverables:**
+
 - 📌 Stakeholder requirements gathering & process documentation
 - 📌 As-Is / To-Be process mapping for patient admission workflows
 - 📌 Interactive KPI dashboard for hospital management reporting
@@ -41,16 +43,18 @@ A business analysis project examining hospital operational performance — ident
 </td>
 <td width="50%">
 
-### 🛒 [E-Commerce BI & Process Improvement](https://github.com/shahilameenp-tech/E-Commerce_Business_Intelligence_Project)
-**Tech:** SQL · Power BI · Excel · Data Modelling
+### 🏛️ [Citizen Self Service Portal](https://github.com/shahilameenp-tech/Citizen_Self_Service_Portal)
 
-An end-to-end business intelligence project analysing an e-commerce operation — uncovering revenue leakage, customer churn drivers, and fulfilment inefficiencies through structured analysis.
+**Tech:** Process Mapping · Requirements Documentation · Stakeholder Analysis
+
+A business analysis case study on a citizen-facing self-service portal — mapping user journeys, defining functional requirements, and identifying process gaps to improve service accessibility.
 
 **BA Deliverables:**
-- 📌 Business requirements document (BRD) & use case definitions
-- 📌 Customer journey mapping & funnel drop-off analysis
-- 📌 Executive dashboard with sales, returns & margin KPIs
-- 📌 Data-driven recommendations for process optimisation
+
+- 📌 Stakeholder mapping & requirements elicitation
+- 📌 As-Is / To-Be journey mapping for citizen-facing workflows
+- 📌 Functional specification & use case definitions
+- 📌 Gap analysis with improvement recommendations
 
 </td>
 </tr>
@@ -58,11 +62,13 @@ An end-to-end business intelligence project analysing an e-commerce operation �
 <td width="50%">
 
 ### 💼 [Job Market Analysis — BA Perspective](https://github.com/shahilameenp-tech/SQL_Project_Data_Job_Analysis)
+
 **Tech:** SQL · PostgreSQL · Excel · Visualisation
 
 A market research and analysis project profiling the job landscape for business and data roles — identifying skill demand trends, salary benchmarks, and high-growth sectors.
 
 **BA Deliverables:**
+
 - 📌 Structured SQL queries to extract & validate market data
 - 📌 Competitive analysis of in-demand BA tools & certifications
 - 📌 Clear visual summaries to communicate findings to stakeholders
@@ -70,8 +76,10 @@ A market research and analysis project profiling the job landscape for business 
 </td>
 <td width="50%">
 
-### 📁 More Coming Soon...
+### 📁 More Coming Soon…
+
 Projects in the pipeline:
+
 - 🗺️ End-to-end BPMN process mapping case study
 - 📝 Requirements traceability matrix (RTM) template project
 - 📊 Agile backlog & user story workshop simulation
@@ -83,7 +91,7 @@ Projects in the pipeline:
 </tr>
 </table>
 
----
+-----
 
 ## 🛠️ Business Analyst Toolkit
 
@@ -123,15 +131,9 @@ Projects in the pipeline:
 
 </div>
 
----
+-----
 
 ## 📈 GitHub Stats
-
-<div align="center">
-
-
-
-</div>
 
 <div align="center">
 
@@ -145,7 +147,7 @@ Projects in the pipeline:
 
 </div>
 
----
+-----
 
 ## 🎯 Core BA Competencies
 
@@ -160,40 +162,41 @@ Projects in the pipeline:
 🧪 UAT Planning & Test Case Writing         ███████████████░░░░░░   72%
 ```
 
----
+-----
 
-## 💼 What I'm Looking For
+## 💼 What I’m Looking For
 
-I'm actively seeking roles in:
+I’m actively seeking roles in:
 
-| Role | Type |
-|------|------|
-| 📋 Business Analyst | Full-time / Contract |
-| 🔄 Systems Analyst | Full-time |
-| 📊 Business Intelligence Analyst | Full-time / Contract |
-| 🔍 Functional Analyst | Full-time |
-| 📈 Reporting & Insights Analyst | Contract / Permanent |
+|Role                           |Type                |
+|-------------------------------|--------------------|
+|📋 Business Analyst             |Full-time / Contract|
+|🔄 Systems Analyst              |Full-time           |
+|📊 Business Intelligence Analyst|Full-time / Contract|
+|🔍 Functional Analyst           |Full-time           |
+|📈 Reporting & Insights Analyst |Contract / Permanent|
 
-> 💬 *"I combine strong analytical thinking with clear communication — turning ambiguous business problems into structured solutions that stakeholders actually understand and teams can actually build."*
 
----
+> 💬 *“I combine strong analytical thinking with clear communication — turning ambiguous business problems into structured solutions that stakeholders actually understand and teams can actually build.”*
+
+-----
 
 ## 🤝 BA Methodologies & Frameworks
 
 <div align="center">
 
-| 📐 Analysis Techniques | 🔄 Delivery Methods | 📄 Documentation |
-|---|---|---|
-| MoSCoW Prioritisation | Agile / Scrum | Business Requirements Doc (BRD) |
-| SWOT & Gap Analysis | Waterfall | Functional Specification (FSD) |
-| Root Cause Analysis | Kanban | User Stories & Acceptance Criteria |
-| Stakeholder Mapping | SAFe (Scaled Agile) | Process Maps (BPMN) |
-| Cost-Benefit Analysis | Hybrid Delivery | Requirements Traceability Matrix |
-| PESTLE Analysis | Change Management | Use Case Diagrams |
+|📐 Analysis Techniques|🔄 Delivery Methods |📄 Documentation                   |
+|---------------------|-------------------|----------------------------------|
+|MoSCoW Prioritisation|Agile / Scrum      |Business Requirements Doc (BRD)   |
+|SWOT & Gap Analysis  |Waterfall          |Functional Specification (FSD)    |
+|Root Cause Analysis  |Kanban             |User Stories & Acceptance Criteria|
+|Stakeholder Mapping  |SAFe (Scaled Agile)|Process Maps (BPMN)               |
+|Cost-Benefit Analysis|Hybrid Delivery    |Requirements Traceability Matrix  |
+|PESTLE Analysis      |Change Management  |Use Case Diagrams                 |
 
 </div>
 
----
+-----
 
 ## 📬 Connect With Me
 
@@ -205,7 +208,7 @@ I'm actively seeking roles in:
 
 </div>
 
----
+-----
 
 <div align="center">
 
