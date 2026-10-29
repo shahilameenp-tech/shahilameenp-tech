@@ -130,32 +130,19 @@ Projects in the pipeline:
 
 ---
 
-## 🎯 Core BA Competencies
-
-```text
-📋 Requirements Elicitation & BRD Writing   ████████████████████░   90%
-🗺️  Process Mapping (BPMN / As-Is / To-Be)  ███████████████████░░   85%
-📊 Data Analysis & Reporting (SQL/Excel)    ████████████████████░   88%
-🤝 Stakeholder Management & Communication   ███████████████████░░   87%
-📈 Dashboard & KPI Development (Power BI)   ██████████████████░░░   82%
-🔄 Agile / Scrum / Waterfall Methodologies  ████████████████░░░░░   76%
-🔍 Gap Analysis & Root Cause Analysis       ███████████████████░░   85%
-🧪 UAT Planning & Test Case Writing         ███████████████░░░░░░   72%
-```
-
----
 
 ## 💼 What I'm Looking For
 
 I'm actively seeking roles in:
 
-| Role                            | Type                 |
-|---------------------------------|----------------------|
-| 📋 Business Analyst             | Full-time / Contract |
-| 🔄 Systems Analyst              | Full-time            |
-| 📊 Business Intelligence Analyst| Full-time / Contract |
-| 🔍 Functional Analyst           | Full-time            |
-| 📈 Reporting & Insights Analyst | Contract / Permanent |
+| Role                            
+|---------------------------------
+| 📋 Business Analyst             
+| 🔄 Systems Analyst              
+| 📊 Business Intelligence Analyst
+| 📊 Data Analyst
+| 🔍 Functional Analyst           
+| 📈 Reporting & Insights Analyst 
 
 > 💬 *"I combine strong analytical thinking with clear communication — turning ambiguous business problems into structured solutions that stakeholders actually understand and teams can actually build."*
 
